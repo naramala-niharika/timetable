@@ -143,4 +143,4 @@ Execute the program
 ~~~
 # OUTPUT
 ![output](https://github.com/naramala-niharika/timetable/blob/main/logo.png)
-![output]()
+![output](https://github.com/naramala-niharika/timetable/blob/main/Screenshot%20(19).png)
