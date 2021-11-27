@@ -141,4 +141,5 @@ Execute the program
 
 
 ~~~
-# OUPUT
+# OUTPUT
+![output](https://github.com/naramala-niharika/timetable/blob/main/logo.png)
