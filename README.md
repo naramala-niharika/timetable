@@ -144,3 +144,6 @@ Execute the program
 # OUTPUT
 ![output](https://github.com/naramala-niharika/timetable/blob/main/logo.png)
 ![output](https://github.com/naramala-niharika/timetable/blob/main/Screenshot%20(20).png)
+
+## Result 
+ Thus the web time table is successfully executed
